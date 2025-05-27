@@ -7,3 +7,4 @@ You can work in the one you like the most and send your submission to this
 ## Current challenges
 
 - [Hooking](/hooking.md)
+- [WebGPU](/webgpu.md)
