@@ -47,3 +47,7 @@ Pick the challenge that matches your background, build something, and send your 
 Covenant is built around six subsystems — sensing, edge computing, energy, communications, mechanical structure, and drone autonomy — spanning 8+ engineering disciplines. Every challenge in this repo is a real unsolved problem from the system.
 
 Learn more at [covenant.space](https://covenant.space).
+
+---
+
+[Technical stack →](stack.md)
