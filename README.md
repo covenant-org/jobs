@@ -36,7 +36,9 @@ Pick the challenge that matches your background, build something, and send your 
 *Challenges coming soon*
 
 ### Mechatronics
-*Challenges coming soon*
+| Challenge | Description |
+|---|---|
+| [Mechanical Modeling](/mecanica/mechanical-modeling.md) | Model a drone docking component in SOLIDWORKS or Fusion 360 — parametric, accurate, ready for fabrication |
 
 ---
 
